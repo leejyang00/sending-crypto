@@ -65,3 +65,5 @@ Create a basic project structure:
 ```
 npx hardhat
 ```
+
+**GIPHY Developers:** https://developers.giphy.com/docs/api/endpoint#search
