@@ -23,7 +23,7 @@ npm run dev
 
 To deploy contract to the Ropsten network:
 ```
-cd smart_contract![Screen Shot 2022-03-27 at 2 05 19 pm](https://user-images.githubusercontent.com/58450399/160266158-4216bad8-96fb-49d5-a955-cbfde5ac372f.png)
+cd smart_contract
 
 npx hardhat run scripts/deploy.js --network ropsten
 ```
